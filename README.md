@@ -13,11 +13,13 @@ AlphaFit is a fitness app built with Flutter that provides a variety of built-in
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Exercise Categories](screenshots/exercise_categories.png)
-![Exercise Details](screenshots/exercise_details.png)
-![User Profile](screenshots/user_profile.png)
-![Exercise Scheduler](screenshots/exercise_scheduler.png)
+![Home Screen](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/homepage.jpg)
+![Drawer](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Drawer.jpg)
+![Workouts](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Workout%20Selection.jpg)
+![Video Animations](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Video_Animation.jpg)
+![Routines](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Routines.jpg)
+![Exercise Scheduler](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Schedule.jpg)
+![Articles](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Articles.jpg)
 
 ## Getting Started
 
