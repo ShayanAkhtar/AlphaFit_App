@@ -9,6 +9,7 @@ AlphaFit is a fitness app built with Flutter that provides a variety of built-in
 - User account creation and authentication using Firebase.
 - Personalized exercise scheduling and tracking.
 - User-friendly interface with intuitive navigation and smooth animations.
+- Access to a range of healthy articles for diet plans.
 
 ## Screenshots
 
@@ -43,7 +44,8 @@ Note: Ensure you have Flutter and Dart SDK installed on your development machine
 2. Create a new account or log in with your existing Firebase credentials.
 3. Explore the exercise categories and select an exercise to view details.
 4. Follow the provided instructions and animations to perform the exercise correctly.
-5. Schedule exercises by adding them to your daily or weekly routines.
+5. Read articles on diet plans to gain insights into proper nutrition and achieve fitness goals.
+6. Schedule exercises by adding them to your daily or weekly routines.
 
 
 ## License
