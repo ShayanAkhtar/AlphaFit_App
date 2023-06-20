@@ -13,13 +13,10 @@ AlphaFit is a fitness app built with Flutter that provides a variety of built-in
 
 ## Screenshots
 
-![Home Screen](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/homepage.jpg)
-![Drawer](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Drawer.jpg)
-![Workouts](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Workout%20Selection.jpg)
-![Video Animations](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Video_Animation.jpg)
-![Routines](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Routines.jpg)
-![Exercise Scheduler](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Schedule.jpg)
-![Articles](https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Articles.jpg)
+<img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/homepage.jpg" width=20% height=30%> <img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Drawer.jpg" width=20% height=30%>
+<img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Workout%20Selection.jpg" width=20% height=30%>
+<img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Video_Animation.jpg" width=20% height=30%>
+<img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Routines.jpg" width=20% height=30%><img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Schedule.jpg" width=20% height=30%><img src="https://github.com/ShayanAkhtar/AlphaFit_App/blob/main/ScreenShots/Articles.jpg" width=20% height=30%>
 
 ## Getting Started
 
